@@ -5,4 +5,6 @@
 📫 How to reach me ?
 Email me at 8anaknroy@gmail.com
 
-### Happy Opensource
+### My Stack
+- NextJS
+- TypeScript
