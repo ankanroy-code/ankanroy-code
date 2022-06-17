@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-### Currently I Am looking for Inturnship 🤓
+### Currently I Am looking for Internship 🤓
 
-📫 How to reach me ?
-Email me at 8anaknroy@gmail.com
+📫 **How to reach me ?**
+_Email me at 8anaknroy@gmail.com_
 
 ### My Stack
-- NextJS
-- TypeScript
+- **NextJS**
+- **Typescript**
+
+### Hobby
+- chess
+- try to learn new language but fail and cry
