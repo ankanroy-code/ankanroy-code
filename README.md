@@ -11,5 +11,4 @@ _Email me at 8anaknroy@gmail.com_
 - **Typescript**
 
 ### Hobby
-- chess
-- try to learn new language but fail and cry
+- **chess**
