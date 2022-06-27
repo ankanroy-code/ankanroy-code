@@ -6,9 +6,11 @@
 _Email me at 8anaknroy@gmail.com_
 
 ### My Stack
+- **Rust**
+- **Flutter**
 - **NextJS**
-- **SOLIDJS**
 - **Typescript**
 
 ### Hobby
-- **chess**
+- **Chess**
+- **Game Engine**
