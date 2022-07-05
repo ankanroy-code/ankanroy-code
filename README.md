@@ -6,8 +6,7 @@
 _Email me at 8anaknroy@gmail.com_
 
 ### My Stack
-- **Rust**
-- **Flutter**
+- **python**
 - **NextJS**
 - **Typescript**
 
