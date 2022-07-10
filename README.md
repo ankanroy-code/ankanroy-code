@@ -16,5 +16,5 @@ IRON MAN
 - **nextjs**
 
 ### Hobby
-- **Chess**
+- **chess**
 - **anime**
